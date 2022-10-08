@@ -1,9 +1,12 @@
 - url: https://replicate.com
   output: home.png
-  height: 5000
+  height: 10000
+  width: 1400
 - url: https://replicate.com/explore
   output: explore.png
-  height: 5000
+  height: 10000
+  width: 1400
 - url: https://replicate.com/about
   output: about.png
-  height: 5000
+  height: 10000
+  width: 1400
