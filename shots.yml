@@ -1,3 +1,9 @@
-# - url: https://www.example.com/
-#   output: shot.png
-#   height: 800
+- url: https://replicate.com
+  output: home.png
+  height: 5000
+- url: https://replicate.com/explore
+  output: explore.png
+  height: 5000
+- url: https://replicate.com/about
+  output: about.png
+  height: 5000
